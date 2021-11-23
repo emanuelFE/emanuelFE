@@ -7,14 +7,14 @@
 <div align = "center">
   
   <a href="https://github.com/legends23">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=legends23&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Emanuel&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
    
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=legends23&layout=compact&langs_count=7&theme=great-gatsby" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel&layout=compact&langs_count=7&theme=great-gatsby" />
 </div> 
   
 <-(linguagems usadas)
 
-<img align = "right" alt = "legends23" height = "150" style = "border-radius: 50px;" src = "https://assets.puzzlefactory.pl/puzzle/355/785/original.jpg">
+<img align = "right" alt = "Emanuel" height = "150" style = "border-radius: 50px;" src = "https://www.pinpng.com/pngs/m/282-2821544_itachi-blazing-png-download-itachi-uchiha-keren-png.png">
 </div>
   
 
