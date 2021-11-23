@@ -19,13 +19,13 @@
   
 
   <div> 
-  <a href="https://www.youtube.com/channel/UCaSbDnxGePB3kXatmIr8fuw/featu" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
-  <a href="https://www.instagram.com/gui.frans/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
- 	<a href="https://www.twitch.tv/legens2302" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
- <a href="https://discord.gg/Btm47xSnkV
+  <a href="https://www.youtube.com/channel/UCIYrCMv4evaKj0UNr9Eq10w"> <img src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
+  <a href="https:"https://www.instagram.com/cn4_yoda/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
+ 	<a href="" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
+ <a href="https://discord.com/channels/905872732221210664/905873980676792400"
 " target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
   <a href = "mailto:guifrans23@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://www.linkedin.com/in/guilherme-a-fran%C3%A7a-185aa1213/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> </a> 
+  <a href="https://www.linkedin.com/in/emanuel-felipe-515388214/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> </a> 
  
  ![ Animação de cobra ] (https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
