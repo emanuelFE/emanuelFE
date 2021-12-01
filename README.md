@@ -11,6 +11,7 @@
    
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel&layout=compact&langs_count=7&theme=great-gatsby" />
 </div> 
+  <iframe src="https://giphy.com/embed/e09wwkNgKt2jC" width="339" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/itachi-e09wwkNgKt2jC">via GIPHY</a></p>
   
 <-(linguagems usadas)
 
