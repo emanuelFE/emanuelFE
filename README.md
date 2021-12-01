@@ -14,7 +14,7 @@
  https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif
 <-(linguagems usadas)
 
-<img align = "right" alt = "legends23" height = "150" style = "border-radius: 50px;" src = "https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
+https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif
 </div>
 
   
