@@ -14,7 +14,7 @@
  https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif
 <-(linguagems usadas)
 
-https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif
+<iframe src="https://giphy.com/embed/e09wwkNgKt2jC" width="339" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/itachi-e09wwkNgKt2jC">via GIPHY</a></p>
 </div>
 
   
