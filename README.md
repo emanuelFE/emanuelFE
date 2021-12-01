@@ -11,8 +11,7 @@
    
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel&layout=compact&langs_count=7&theme=great-gatsby" />
 </div> 
-  <div style="width:100%;height:0;padding-bottom:142%;position:relative;"><iframe src="https://giphy.com/embed/e09wwkNgKt2jC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/itachi-e09wwkNgKt2jC">via GIPHY</a></p>
-  
+ https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif
 <-(linguagems usadas)
 
 <img align = "right" alt = "Emanuel" height = "150" style = "border-radius: 50px;" src = "https://www.pinpng.com/pngs/m/282-2821544_itachi-blazing-png-download-itachi-uchiha-keren-png.png">
