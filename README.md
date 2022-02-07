@@ -14,7 +14,7 @@
   
 <-(linguagems usadas)
 
-<img align = "right" alt = "legends23" height = "150" style = "border-radius: 50px;" src = "https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif">
+<img align = "right" alt = "Emanuel" height = "150" style = "border-radius: 50px;" src = "https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif">
 </div>
   
 
