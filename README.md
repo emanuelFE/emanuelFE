@@ -1,8 +1,8 @@
 ## Olá👋!eu sou Emanuel  
 ##
-- 🔭 estou trabalhando com 
-- 📗 hoje estou estudando 
-- 🤔 o que tem para hoje?
+- 🔭 estou trabalhando com  windowns serve, unbuntu serve, linux e windows
+- 📗 hoje estou estudando windowns serve, unbuntu serve, linux e windows
+- 🤔 o que tem para hoje? windowns serve, unbuntu serve, linux e windows
 ## 
 <div align = "center">
   
