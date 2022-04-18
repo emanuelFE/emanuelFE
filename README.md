@@ -22,7 +22,7 @@
 ### ⚡ Estatísticas do meu GitHub <h3>
  
   <div align = "center">
-   <a href="https://github.com/legends23">
+   <a href="https://github.com/emanuelFE">
    <img height = "100em" src = "https://github-readme-stats.vercel.app/api?username=legends23&show_icons=true&theme=great-            gatsby&include_all_commits=true&count_private=true" />
    <img height = "100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=legends23&layout=compact&langs_count=7&theme=great-gatsby" />
    <img height = "100em" src = "https://github-readme-streak-stats.herokuapp.com/?user=legends23" />
