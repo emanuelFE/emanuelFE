@@ -15,7 +15,7 @@
   > - Python<br>
   > - <br>
 ##
-  <img align= "right" alt= "legends23" height= "150" style = "border-radius:50px;" src= "https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
+  <img align= "right" alt= "legends23" height= "150" style = "border-radius:50px;" src= "https://c.tenor.com/nEe0t726IZoAAAAd/naruto.gif">
   
 ##
    
