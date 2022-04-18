@@ -72,7 +72,7 @@
 ### REDES SOCIAIS <h3>
 
   <div> 
-    <a href="https://www.youtube.com/channel/UCaSbDnxGePB3kXatmIr8fuw/featu" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"target =" _ blank "> </a>
+    <a href="https://www.youtube.com/channel/UCIYrCMv4evaKj0UNr9Eq10w"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"target =" _ blank "> </a>
     <a href="https://www.instagram.com/gui.frans/" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target =" _ blank "> </a>
     <a href="https://www.twitch.tv/legens2302" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"target =" _ blank "> </a>
    <a href="https://discord.gg/dTgyk2hBKr"
