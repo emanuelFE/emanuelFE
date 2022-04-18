@@ -28,12 +28,12 @@
    <img height = "100em" src = "https://github-readme-streak-stats.herokuapp.com/?user=legends23" />
    <img height = "100em" src = "https://starchart.cc/legends23/legends23.svg" /> 
        <div> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/github/commits-since/legends23/legends23/legends23.svg"target="_ blank"></a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/github/forks/legends23/legends23.svg"target="_blank"></a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/github/stars/legends23/legends23.svg"target="_blank"></a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/github/watchers/legends23/legends23.svg"alvo="_blank"></a>                                           
-    <a href="" target="_blank"> <img src="https://img.shields.io/github/license/legends23/legends23.svg"target="_blank"></a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/github/followers/legends23.svg?style=social&label=Follow&maxAge=2592000"target="_blank"></a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/github/commits-since/emanuelFE/emanuelFE.svg"target="_ blank"></a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/github/forks/emanuelFE/emanuelFE.svg"target="_blank"></a> 
+    <a href="" target="_blank"> <img src="https://img.shields.io/github/stars/emanuelFE/emanuelFE.svg"target="_blank"></a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/github/watchers/emanuelFE/emanuelFE.svg"alvo="_blank"></a>                                           
+    <a href="" target="_blank"> <img src="https://img.shields.io/github/license/emanuelFE/emanuelFE.svg"target="_blank"></a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/github/followers/emanuelFE.svg?style=social&label=Follow&maxAge=2592000"target="_blank"></a>
   </div>
      
   
