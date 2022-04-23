@@ -13,7 +13,7 @@
   > - C<br>
   > - C++<br>
   > - Python<br>
-  > - WindownsServer
+  > - WindowsServer
   > - <br>
 ##
   <img align= "right" alt= "emanuelFE" height= "150" style = "border-radius:50px;" src= "https://c.tenor.com/nEe0t726IZoAAAAd/naruto.gif">
